@@ -1,6 +1,6 @@
 # Nina Khomych
 
-[<img src="./images/photo.jpg" width="50%">](./images/photo.jpg)
+[photo](./images/photo.jpg)
 
 ## Contacts
 * tel.: +79785046202
