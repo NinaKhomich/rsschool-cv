@@ -1,5 +1,7 @@
 # Nina Khomych
 
+[<img src="./images/photo.jpg" width="50%">](./images/photo.jpg)
+
 ## Contacts
 * tel.: +79785046202
 * e-mail: nina.kh22@mail.ru
